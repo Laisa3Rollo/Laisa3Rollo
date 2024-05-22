@@ -1,16 +1,15 @@
-## Hi there 👋
+### boas vindas ao meu perfil 🐈
 
-<!--
-**Laisa3Rollo/Laisa3Rollo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome é Láisa Eduara
 
-Here are some ideas to get you started:
+- estou estudando na [alura](https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwis1M_jj6GGAxXjX0gAHSZMAQwYABAAGgJjZQ&ase=2&gclid=EAIaIQobChMIrNTP44-hhgMV419IAB0mTAEMEAAYASAAEgK-UvD_BwE&ohost=www.google.com&cid=CAASJeRoe0MJ1HljaUhypK1lx_mSjClKpO1Q9qRdAnB2FEg8-HyUfOg&sig=AOD64_1E4hs9fvSlFcOrlp7Tbvu6r1lvKQ&q&nis=4&adurl&ved=2ahUKEwjl-srjj6GGAxX5PbkGHWlhAYMQ0Qx6BAgGEAE)
+- estou me desenvolvendo na linguagem de javascript
+- ultilizo esse espaço para minha organizaçao e compartilhameno dos meu projeto desenvolvido 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### voce pode entrar em cotato comigo 📧
+
+00001097299624sp@al.educacao.sp.gov.br
+
+@Laisa7298
+
+![](https://media1.tenor.com/m/ytuZzvuVcvMAAAAC/tv-shows-annoyed.gif)
