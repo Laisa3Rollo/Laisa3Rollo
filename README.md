@@ -6,7 +6,7 @@ meu nome é Láisa Eduarda
 - estou me desenvolvendo na linguagem de javascript
 - ultilizo esse espaço para minha organizaçao e compartilhameno dos meu projeto desenvolvido 
 
-### voce pode entrar em cotato comigo 📧
+### você pode entrar em contato comigo 📧
 
 00001097299624sp@al.educacao.sp.gov.br
 
